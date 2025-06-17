@@ -1,6 +1,4 @@
-# README
-
-# Create Wallet btc
+# Create BTC Wallet
 
 This project demonstrates how to create a wallet using a modern JavaScript runtime.
 
